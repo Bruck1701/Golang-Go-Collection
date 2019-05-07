@@ -1,0 +1,13 @@
+https://httpstat.us/200
+http://www.google.com
+https://httpstat.us/404
+https://httpstat.us/200
+https://httpstat.us/418
+https://httpstat.us/403
+http://192.168.13.166
+http://192.168.13.174:8081
+http://192.168.13.157:2718
+http://192.168.13.173:5555/
+http://192.168.13.174:8080
+http://www.pudim.com.br
+http://www.omo.com.br
