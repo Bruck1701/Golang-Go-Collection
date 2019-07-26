@@ -6,5 +6,8 @@ Ouput: log.txt <br>
 <br>
 Description of the Output:<br>
 csv file with fields :
-with the the site name (or IP) , the date and time, and the status (UP or DOWN), if the the status is Down, the next field is the status returned by the server.
+ <span>&#8226;</span>Date and time, <Br>
+ The site (site name or IP),<br>
+ The status (UP or DOWN), <br>
+ If the the status is DOWN, the status code returned by the server.
 
