@@ -1,2 +1,4 @@
 # Web Services Monitor
-script for monitoring webservices in the local network
+Simple script to monitor webservices in the local network.
+
+Input: File with the sites 
